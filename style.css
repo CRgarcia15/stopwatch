@@ -1,0 +1,23 @@
+body {
+    background-color: #BEBEBE;
+}
+
+h1 {
+    text-align: center;
+}
+
+#current-display{
+    border-top: solid black 2.5px;
+}   
+
+#current-time {
+    text-align: right;
+}
+
+#date {
+    margin-top: -40px;
+}
+
+#display-container {
+    text-align: center;
+}
